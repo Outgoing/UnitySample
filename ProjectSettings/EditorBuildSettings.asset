@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PhotonEducation/Launcher.unity
+    guid: 60ad38e90113bac4fbf446920aa9a783
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 7a8cee4a2b5b2aa438fc5b5de0c25f55, type: 2}
